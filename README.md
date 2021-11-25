@@ -22,5 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# Rails_BookApp_Practice
-# Rails_BookApp_Practice
